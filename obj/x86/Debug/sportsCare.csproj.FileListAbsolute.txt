@@ -1,0 +1,186 @@
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\MainWindow.baml
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\MainWindow.g.cs
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\App.g.cs
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\sportsCare.g.resources
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\bin\Debug\sportsCare.exe
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\bin\Debug\sportsCare.pdb
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\bin\Debug\DynamicDataDisplay.dll
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\sportsCare.exe
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\sportsCare.pdb
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\ShowTable.baml
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\ShowTable.g.cs
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+E:\课件（me）\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare.exe
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare.pdb
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\MainWindow.baml
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\ShowTable.baml
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\MainWindow.g.cs
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\ShowTable.g.cs
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\App.g.cs
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare.g.resources
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\bin\Debug\sportsCare.exe
+C:\Users\熊昱辉\Desktop\sportsCare\sportsCare\bin\Debug\sportsCare.pdb
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\sportsCare.exe
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\sportsCare.pdb
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\bin\Debug\sportsCare.exe
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\bin\Debug\sportsCare.pdb
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\MainWindow.baml
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\ShowTable.baml
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\MainWindow.g.cs
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\ShowTable.g.cs
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\App.g.cs
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\sportsCare.g.resources
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\熊昱辉\Desktop\新建文件夹\sportsCare\sportsCare\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare.exe
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare.pdb
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\bin\Debug\sportsCare.exe
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\bin\Debug\sportsCare.pdb
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\ShowTable.baml
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\ShowTable.g.cs
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\App.g.cs
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare.g.resources
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\sportsCare\sportsCare\obj\x86\Debug\sportsCare_Content.g.cs
+G:\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\sportsCare.exe
+G:\大三上\单片机_开发\sportsCare\sportsCare\obj\x86\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\sportsCare.csprojResolveAssemblyReference.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\MainWindow.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\ShowTable.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\MainWindow.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\ShowTable.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\App.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\sportsCare_Content.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\sportsCare.g.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\obj\x86\Debug\sportsCare.csproj.GenerateResource.Cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\bin\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\bin\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\大三下\others\挑战杯运动监护\SportCare_PC\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\bin\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\bin\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\sportsCare.csprojResolveAssemblyReference.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\MainWindow.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\ShowTable.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\MainWindow.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\ShowTable.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\App.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\sportsCare_Content.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\sportsCare.g.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 副本\sportsCare\obj\x86\Debug\sportsCare.csproj.GenerateResource.Cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\bin\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\bin\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\sportsCare.csprojResolveAssemblyReference.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\MainWindow.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\ShowTable.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\MainWindow.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\ShowTable.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\App.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\sportsCare_Content.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\sportsCare.g.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - 副本\sportsCare\obj\x86\Debug\sportsCare.csproj.GenerateResource.Cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\bin\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\bin\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\sportsCare.csprojResolveAssemblyReference.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\MainWindow.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\ShowTable.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\MainWindow.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\ShowTable.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\App.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\sportsCare_Content.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\sportsCare.g.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC - 备份1_脉搏通 - ok\sportsCare\obj\x86\Debug\sportsCare.csproj.GenerateResource.Cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\bin\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\bin\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\sportsCare.csprojResolveAssemblyReference.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\MainWindow.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\ShowTable.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\MainWindow.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\ShowTable.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\App.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\sportsCare_Content.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\sportsCare.g.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_10\sportsCare\obj\x86\Debug\sportsCare.csproj.GenerateResource.Cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\bin\Debug\sportsCare.exe
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\bin\Debug\sportsCare.pdb
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\sportsCare.csprojResolveAssemblyReference.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\MainWindow.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\ShowInstruConn.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\ShowTable.baml
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\MainWindow.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\ShowInstruConn.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\ShowTable.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\App.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\sportsCare_Content.g.cs
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\sportsCare_MarkupCompile.cache
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\sportsCare.g.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\sportsCare.Properties.Resources.resources
+G:\大三下\others\挑战杯运动监护\SportCare_PC_04_12\sportsCare\obj\x86\Debug\sportsCare.csproj.GenerateResource.Cache
